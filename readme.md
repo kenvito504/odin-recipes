@@ -1,0 +1,1 @@
+This project is building a recipe website. I will list three recipes using the instant pot. I will employ various HTML components such as images, links and text.
